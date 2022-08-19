@@ -4,6 +4,7 @@ const script = () => {
   const test = () => {
     console.log();
     console.log();
+    console.log();
   };
   return <div>script</div>;
 };
