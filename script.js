@@ -1,7 +1,9 @@
 import React from "react";
 
 const script = () => {
-  const test = () => {};
+  const test = () => {
+    console.log();
+  };
   return <div>script</div>;
 };
 
